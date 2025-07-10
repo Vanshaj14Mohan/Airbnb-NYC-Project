@@ -1,7 +1,3 @@
-Perfect — you're looking for a professional and engaging `README.md` for your **Airbnb NYC Analysis** project, styled like your **SuperstoreViz** dashboard. Here's a tailored version you can use directly for your GitHub repo:
-
----
-
 # 🏙️ AirbnbNYC — Data Analysis & Visualization Project
 
 An insightful data analysis project focused on **Airbnb listings in New York City**, built using **Python**, **Pandas**, and **Seaborn**. This project explores key metrics around pricing, location trends, host behaviors, and listing availability using interactive visualizations and data wrangling techniques.
